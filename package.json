@@ -1,0 +1,24 @@
+{
+  "name": "codewars",
+  "description": "CodeWars solutions.",
+  "version": "1.0.0",
+  "main": "disarium.js",
+  "devDependencies": {
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuperSurok/codewars.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SuperSurok/codewars/issues"
+  },
+  "homepage": "https://github.com/SuperSurok/codewars#readme"
+}
